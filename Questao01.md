@@ -1,4 +1,4 @@
-As expressões resultaram no seguinte:
+Os valores das expressões estão determinados a seguir:
 
 * p == &i 
   = 1;
