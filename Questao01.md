@@ -4,14 +4,14 @@ q = &j;
 
 Os valores das expressões estão determinados a seguir:
 
-* p == &i 
+* p == &i   
   = 1;
 
-* *p - *q 
+* *p - *q   
    = -2;
 
-* **&p 
+* **&p   
   = 3;
 
-* 3 - *p/(*q) + 7 
+* 3 - *p/(*q) + 7   
   = 10.
