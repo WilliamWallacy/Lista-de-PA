@@ -4,6 +4,6 @@ Respostas da lista de Programação Avançada;
 
 # Componentes:
 
-Camila Fernanda Cardoso Teixeira;
+* Camila Fernanda Cardoso Teixeira;
 
-William Wallacy Fonseca de Lima.
+* William Wallacy Fonseca de Lima.
