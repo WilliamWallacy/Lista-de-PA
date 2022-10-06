@@ -1,3 +1,7 @@
+Considerando as variáveis i = 3 e j = 5 do tipo inteiro, os ponteiros *p e *q do tipo inteiro e as atribuições
+p = &i;
+q = &j;
+
 Os valores das expressões estão determinados a seguir:
 
 * p == &i 
